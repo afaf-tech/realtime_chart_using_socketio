@@ -9,9 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "latest",
+    "dotenv": "^8.2.0",
     "express": "latest",
     "mongoose": "latest",
-    "body-parser": "latest",
-    "socket.io": "latest"
+    "socket.io": "2"
   }
 }
